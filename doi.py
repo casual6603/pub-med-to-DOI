@@ -12,7 +12,7 @@ def extract_doi(url: str) -> str | None:
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
 
-    print ("monkey")
+    print("monkey")
     meta = soup.find("meta", attrs={"name": "citation_doi"})
     if isinstance(meta, Tag) and meta.get("content"):
         return meta["content"]
@@ -27,12 +27,12 @@ def extract_doi(url: str) -> str | None:
 
 def main():
     with open(INPUT_FILE, "r") as infile:
-        urls = [line.strip() for line in infile if line.strip()
-    i = 0 
+        urls = [line.strip() for line in infile if line.strip()]
+    i = 0
     with open(OUTPUT_FILE, "w") as outfile:
         for url in urls:
             print(i)
-            i++
+            i += 1
             doi = extract_doi(url)
             if doi:
                 outfile.write(f"https://doi.org/{doi}\n")

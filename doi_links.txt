@@ -1,95 +1,162 @@
-https://pubmed.ncbi.nlm.nih.gov/36624743/ -> https://doi.org/10.1155/2022/8966920
-https://pubmed.ncbi.nlm.nih.gov/36880119/ -> https://doi.org/10.1002/pri.1997
-https://pubmed.ncbi.nlm.nih.gov/37016408/ -> https://doi.org/10.1186/s12984-023-01170-3
-https://pubmed.ncbi.nlm.nih.gov/34205457/ -> https://doi.org/10.3390/ijerph18126615
-https://pubmed.ncbi.nlm.nih.gov/36612471/ -> https://doi.org/10.3390/ijerph20010153
-https://pubmed.ncbi.nlm.nih.gov/29453980/ -> https://doi.org/10.1016/j.apmr.2018.01.023
+https://doi.org/10.1155/2022/8966920
+https://doi.org/10.1002/pri.1997
+https://doi.org/10.1186/s12984-023-01170-3
+https://doi.org/10.3390/ijerph18126615
+https://doi.org/10.3390/ijerph20010153
+https://doi.org/10.1016/j.apmr.2018.01.023
 https://pubmed.ncbi.nlm.nih.gov/26923644/ -> DOI not found
-https://pubmed.ncbi.nlm.nih.gov/32831097/ -> https://doi.org/10.1186/s12984-020-00746-7
-https://pubmed.ncbi.nlm.nih.gov/38870442/ -> https://doi.org/10.1212/WNL.0000000000209495
-https://pubmed.ncbi.nlm.nih.gov/35387494/ -> https://doi.org/10.1161/STROKEAHA.121.036578
-https://pubmed.ncbi.nlm.nih.gov/33297451/ -> https://doi.org/10.3390/ijerph17239135
-https://pubmed.ncbi.nlm.nih.gov/34538193/ -> https://doi.org/10.1080/09638288.2021.1973121
-https://pubmed.ncbi.nlm.nih.gov/39294678/ -> https://doi.org/10.1186/s12984-024-01462-2
-https://pubmed.ncbi.nlm.nih.gov/37861512/ -> https://doi.org/10.1097/MD.0000000000035568
-https://pubmed.ncbi.nlm.nih.gov/22668675/ -> https://doi.org/10.1310/tsr1903-193
-https://pubmed.ncbi.nlm.nih.gov/26451007/ -> https://doi.org/10.1177/0269215515609414
-https://pubmed.ncbi.nlm.nih.gov/38943406/ -> https://doi.org/10.3233/NRE-240070
-https://pubmed.ncbi.nlm.nih.gov/36031950/ -> https://doi.org/10.1080/09638288.2022.2114553
-https://pubmed.ncbi.nlm.nih.gov/32861668/ -> https://doi.org/10.1016/j.apmr.2020.07.012
-https://pubmed.ncbi.nlm.nih.gov/33177223/ -> https://doi.org/10.1212/WNL.0000000000011152
-https://pubmed.ncbi.nlm.nih.gov/38965499/ -> https://doi.org/10.1186/s12883-024-03734-9
-https://pubmed.ncbi.nlm.nih.gov/39508575/ -> https://doi.org/10.2340/jrm.v56.40348
-https://pubmed.ncbi.nlm.nih.gov/31974589/ -> https://doi.org/10.2340/16501977-2646
-https://pubmed.ncbi.nlm.nih.gov/39300491/ -> https://doi.org/10.1186/s12984-024-01463-1
-https://pubmed.ncbi.nlm.nih.gov/34937456/ -> https://doi.org/10.1177/15459683211062898
-https://pubmed.ncbi.nlm.nih.gov/36892520/ -> https://doi.org/10.23736/S1973-9087.23.07683-9
-https://pubmed.ncbi.nlm.nih.gov/39395360/ -> https://doi.org/10.1016/j.physio.2024.101417
-https://pubmed.ncbi.nlm.nih.gov/38425282/ -> https://doi.org/10.1177/02692155241235336
+https://doi.org/10.1186/s12984-020-00746-7
+https://doi.org/10.1212/WNL.0000000000209495
+https://doi.org/10.1161/STROKEAHA.121.036578
+https://doi.org/10.3390/ijerph17239135
+https://doi.org/10.1080/09638288.2021.1973121
+https://doi.org/10.1186/s12984-024-01462-2
+https://doi.org/10.1097/MD.0000000000035568
+https://doi.org/10.1310/tsr1903-193
+https://doi.org/10.1177/0269215515609414
+https://doi.org/10.3233/NRE-240070
+https://doi.org/10.1080/09638288.2022.2114553
+https://doi.org/10.1016/j.apmr.2020.07.012
+https://doi.org/10.1212/WNL.0000000000011152
+https://doi.org/10.1186/s12883-024-03734-9
+https://doi.org/10.2340/jrm.v56.40348
+https://doi.org/10.2340/16501977-2646
+https://doi.org/10.1186/s12984-024-01463-1
+https://doi.org/10.1177/15459683211062898
+https://doi.org/10.23736/S1973-9087.23.07683-9
+https://doi.org/10.1016/j.physio.2024.101417
+https://doi.org/10.1177/02692155241235336
 https://pubmed.ncbi.nlm.nih.gov/26616358/ -> DOI not found
-https://pubmed.ncbi.nlm.nih.gov/33919371/ -> https://doi.org/10.3390/ijerph18094424
-https://pubmed.ncbi.nlm.nih.gov/34027755/ -> https://doi.org/10.1080/09638288.2021.1919215
-https://pubmed.ncbi.nlm.nih.gov/38935659/ -> https://doi.org/10.1097/WNP.0000000000000987
-https://pubmed.ncbi.nlm.nih.gov/38745235/ -> https://doi.org/10.1186/s12984-024-01370-5
-https://pubmed.ncbi.nlm.nih.gov/37855247/ -> https://doi.org/10.1080/09638288.2023.2269843
-https://pubmed.ncbi.nlm.nih.gov/38334111/ -> https://doi.org/10.1080/09638288.2024.2310757
-https://pubmed.ncbi.nlm.nih.gov/36575958/ -> https://doi.org/10.1177/15459683221143461
-https://pubmed.ncbi.nlm.nih.gov/24967372/ -> https://doi.org/10.1155/2014/457538
-https://pubmed.ncbi.nlm.nih.gov/37274448/ -> https://doi.org/10.1155/2023/1863686
-https://pubmed.ncbi.nlm.nih.gov/33910364/ -> https://doi.org/10.1161/STROKEAHA.120.032545
-https://pubmed.ncbi.nlm.nih.gov/24491065/ -> https://doi.org/10.1186/1745-6215-15-45
-https://pubmed.ncbi.nlm.nih.gov/31533934/ -> https://doi.org/10.1136/bmj.l5101
-https://pubmed.ncbi.nlm.nih.gov/23111686/ -> https://doi.org/10.1097/NPT.0b013e318274d082
-https://pubmed.ncbi.nlm.nih.gov/33669715/ -> https://doi.org/10.3390/ijerph18042032
-https://pubmed.ncbi.nlm.nih.gov/32039877/ -> https://doi.org/10.3233/NRE-192964
-https://pubmed.ncbi.nlm.nih.gov/32421460/ -> https://doi.org/10.1080/17483107.2020.1765421
-https://pubmed.ncbi.nlm.nih.gov/29521681/ -> https://doi.org/10.1097/PHM.0000000000000919
-https://pubmed.ncbi.nlm.nih.gov/24946799/ -> https://doi.org/10.1186/1743-0003-11-104
-https://pubmed.ncbi.nlm.nih.gov/29436126/ -> https://doi.org/10.1002/pri.1707
-https://pubmed.ncbi.nlm.nih.gov/26847320/ -> https://doi.org/10.1016/j.jht.2015.11.006
-https://pubmed.ncbi.nlm.nih.gov/19884642/ -> https://doi.org/10.1177/1545968309349946
-https://pubmed.ncbi.nlm.nih.gov/36893079/ -> https://doi.org/10.1371/journal.pone.0281212
-https://pubmed.ncbi.nlm.nih.gov/29049194/ -> https://doi.org/10.1097/MD.0000000000008080
-https://pubmed.ncbi.nlm.nih.gov/34252018/ -> https://doi.org/10.1080/10749357.2021.1950986
-https://pubmed.ncbi.nlm.nih.gov/38298134/ -> https://doi.org/10.2340/jrm.v56.19449
-https://pubmed.ncbi.nlm.nih.gov/32145277/ -> https://doi.org/10.1016/j.apmr.2020.02.007
-https://pubmed.ncbi.nlm.nih.gov/35068380/ -> https://doi.org/10.1080/10749357.2021.2008594
-https://pubmed.ncbi.nlm.nih.gov/37517104/ -> https://doi.org/10.1016/j.neucli.2023.102895
-https://pubmed.ncbi.nlm.nih.gov/36897464/ -> https://doi.org/10.1007/s10072-023-06739-3
-https://pubmed.ncbi.nlm.nih.gov/34976049/ -> https://doi.org/10.1155/2021/1987662
-https://pubmed.ncbi.nlm.nih.gov/21642062/ -> https://doi.org/10.1310/tsr1803-248
-https://pubmed.ncbi.nlm.nih.gov/35035473/ -> https://doi.org/10.1155/2022/3815357
-https://pubmed.ncbi.nlm.nih.gov/27088480/ -> https://doi.org/10.1097/PHM.0000000000000512
-https://pubmed.ncbi.nlm.nih.gov/32815384/ -> https://doi.org/10.1177/0964528420947426
-https://pubmed.ncbi.nlm.nih.gov/36890548/ -> https://doi.org/10.1186/s13063-023-07138-x
-https://pubmed.ncbi.nlm.nih.gov/35069728/ -> https://doi.org/10.1155/2022/5771634
-https://pubmed.ncbi.nlm.nih.gov/39775073/ -> https://doi.org/10.1371/journal.pone.0310178
-https://pubmed.ncbi.nlm.nih.gov/34695957/ -> https://doi.org/10.3390/s21206739
-https://pubmed.ncbi.nlm.nih.gov/30072181/ -> https://doi.org/10.1016/j.jstrokecerebrovasdis.2018.06.013
-https://pubmed.ncbi.nlm.nih.gov/26893457/ -> https://doi.org/10.1177/0269215516633275
-https://pubmed.ncbi.nlm.nih.gov/33080562/ -> https://doi.org/10.1016/j.jstrokecerebrovasdis.2020.105378
-https://pubmed.ncbi.nlm.nih.gov/29200424/ -> https://doi.org/10.1371/journal.pone.0188642
-https://pubmed.ncbi.nlm.nih.gov/30234733/ -> https://doi.org/10.1097/MRR.0000000000000319
-https://pubmed.ncbi.nlm.nih.gov/29274471/ -> https://doi.org/10.1016/j.rehab.2017.11.002
-https://pubmed.ncbi.nlm.nih.gov/24187318/ -> https://doi.org/10.1109/ICORR.2013.6650503
-https://pubmed.ncbi.nlm.nih.gov/31970898/ -> https://doi.org/10.1002/pmrj.12331
-https://pubmed.ncbi.nlm.nih.gov/35143747/ -> https://doi.org/10.1016/j.apmr.2022.01.146
-https://pubmed.ncbi.nlm.nih.gov/32741790/ -> https://doi.org/10.3233/NRE-203130
-https://pubmed.ncbi.nlm.nih.gov/27827517/ -> https://doi.org/10.23736/S1973-9087.16.04407-5
-https://pubmed.ncbi.nlm.nih.gov/32000790/ -> https://doi.org/10.1186/s12984-020-0646-1
-https://pubmed.ncbi.nlm.nih.gov/26802969/ -> https://doi.org/10.1016/j.apmr.2015.12.025
-https://pubmed.ncbi.nlm.nih.gov/29316821/ -> https://doi.org/10.1080/09638288.2017.1423400
-https://pubmed.ncbi.nlm.nih.gov/22434022/ -> https://doi.org/10.1177/1545968312437938
-https://pubmed.ncbi.nlm.nih.gov/22512383/ -> https://doi.org/10.3109/09638288.2012.673686
-https://pubmed.ncbi.nlm.nih.gov/29562554/ -> https://doi.org/10.3233/NRE-172234
-https://pubmed.ncbi.nlm.nih.gov/29466440/ -> https://doi.org/10.1371/journal.pone.0193235
-https://pubmed.ncbi.nlm.nih.gov/36949490/ -> https://doi.org/10.1186/s13063-023-07234-y
-https://pubmed.ncbi.nlm.nih.gov/20962598/ -> https://doi.org/10.1097/PHM.0b013e3181f70aa7
-https://pubmed.ncbi.nlm.nih.gov/24878589/ -> https://doi.org/10.1177/1545968314535985
-https://pubmed.ncbi.nlm.nih.gov/25467393/ -> https://doi.org/10.1310/tsr2106-453
-https://pubmed.ncbi.nlm.nih.gov/27517053/ -> https://doi.org/10.1155/2016/9346374
-https://pubmed.ncbi.nlm.nih.gov/28506003/ -> https://doi.org/10.3233/RNN-160710
-https://pubmed.ncbi.nlm.nih.gov/35293588/ -> https://doi.org/10.2340/jrm.v54.2231
-https://pubmed.ncbi.nlm.nih.gov/35505681/ -> https://doi.org/10.7717/peerj.13329
-https://pubmed.ncbi.nlm.nih.gov/32378726/ -> https://doi.org/10.2340/16501977-2686
-https://pubmed.ncbi.nlm.nih.gov/39173684/ -> https://doi.org/10.1016/j.jstrokecerebrovasdis.2024.107961
+https://doi.org/10.3390/ijerph18094424
+https://doi.org/10.1080/09638288.2021.1919215
+https://doi.org/10.1097/WNP.0000000000000987
+https://doi.org/10.1186/s12984-024-01370-5
+https://doi.org/10.1080/09638288.2023.2269843
+https://doi.org/10.1080/09638288.2024.2310757
+https://doi.org/10.1177/15459683221143461
+https://doi.org/10.1155/2014/457538
+https://doi.org/10.1155/2023/1863686
+https://doi.org/10.1161/STROKEAHA.120.032545
+https://doi.org/10.1186/1745-6215-15-45
+https://doi.org/10.1136/bmj.l5101
+https://doi.org/10.1097/NPT.0b013e318274d082
+https://doi.org/10.3390/ijerph18042032
+https://doi.org/10.3233/NRE-192964
+https://doi.org/10.1080/17483107.2020.1765421
+https://doi.org/10.1097/PHM.0000000000000919
+https://doi.org/10.1186/1743-0003-11-104
+https://doi.org/10.1002/pri.1707
+https://doi.org/10.1016/j.jht.2015.11.006
+https://doi.org/10.1177/1545968309349946
+https://doi.org/10.1371/journal.pone.0281212
+https://doi.org/10.1097/MD.0000000000008080
+https://doi.org/10.1080/10749357.2021.1950986
+https://doi.org/10.2340/jrm.v56.19449
+https://doi.org/10.1016/j.apmr.2020.02.007
+https://doi.org/10.1080/10749357.2021.2008594
+https://doi.org/10.1016/j.neucli.2023.102895
+https://doi.org/10.1007/s10072-023-06739-3
+https://doi.org/10.1155/2021/1987662
+https://doi.org/10.1310/tsr1803-248
+https://doi.org/10.1155/2022/3815357
+https://doi.org/10.1097/PHM.0000000000000512
+https://doi.org/10.1177/0964528420947426
+https://doi.org/10.1186/s13063-023-07138-x
+https://doi.org/10.1155/2022/5771634
+https://doi.org/10.1371/journal.pone.0310178
+https://doi.org/10.3390/s21206739
+https://doi.org/10.1016/j.jstrokecerebrovasdis.2018.06.013
+https://doi.org/10.1177/0269215516633275
+https://doi.org/10.1016/j.jstrokecerebrovasdis.2020.105378
+https://doi.org/10.1371/journal.pone.0188642
+https://doi.org/10.1097/MRR.0000000000000319
+https://doi.org/10.1016/j.rehab.2017.11.002
+https://doi.org/10.1109/ICORR.2013.6650503
+https://doi.org/10.1002/pmrj.12331
+https://doi.org/10.1016/j.apmr.2022.01.146
+https://doi.org/10.3233/NRE-203130
+https://doi.org/10.23736/S1973-9087.16.04407-5
+https://doi.org/10.1186/s12984-020-0646-1
+https://doi.org/10.1016/j.apmr.2015.12.025
+https://doi.org/10.1080/09638288.2017.1423400
+https://doi.org/10.1177/1545968312437938
+https://doi.org/10.3109/09638288.2012.673686
+https://doi.org/10.3233/NRE-172234
+https://doi.org/10.1371/journal.pone.0193235
+https://doi.org/10.1186/s13063-023-07234-y
+https://doi.org/10.1097/PHM.0b013e3181f70aa7
+https://doi.org/10.1177/1545968314535985
+https://doi.org/10.1310/tsr2106-453
+https://doi.org/10.1155/2016/9346374
+https://doi.org/10.3233/RNN-160710
+https://doi.org/10.2340/jrm.v54.2231
+https://doi.org/10.7717/peerj.13329
+https://doi.org/10.2340/16501977-2686
+https://doi.org/10.1016/j.jstrokecerebrovasdis.2024.107961
+https://doi.org/10.3233/NRE-161421
+https://doi.org/10.1186/s12984-019-0563-3
+https://doi.org/10.1177/1545968311413906
+https://doi.org/10.3233/RNN-140418
+https://doi.org/10.1136/bmjopen-2018-023963
+https://doi.org/10.1097/MRR.0000000000000346
+https://doi.org/10.1016/j.apmr.2017.10.026
+https://doi.org/10.1097/PHM.0b013e3182a20a34
+https://doi.org/10.1177/02692155241312067
+https://pubmed.ncbi.nlm.nih.gov/30457965/ -> DOI not found
+https://doi.org/10.1002/pri.485
+https://doi.org/10.1016/S1836-9553(13)70201-7
+https://doi.org/10.23736/S1973-9087.19.05847-7
+https://doi.org/10.1186/s13063-019-3261-3
+https://doi.org/10.3390/medicina57111200
+https://doi.org/10.1186/s12984-017-0332-0
+https://doi.org/10.3109/09593985.2016.1138347
+https://doi.org/10.3109/02699052.2016.1147600
+https://doi.org/10.1080/01616412.2024.2339099
+https://doi.org/10.1155/2014/580861
+https://doi.org/10.3233/NRE-171454
+https://doi.org/10.1155/2015/175719
+https://doi.org/10.1111/ene.13037
+https://doi.org/10.1097/PHM.0b013e3181f1c31c
+https://pubmed.ncbi.nlm.nih.gov/26351545/ -> DOI not found
+https://doi.org/10.1097/MD.0000000000032761
+https://doi.org/10.1089/jicm.2021.0264
+https://pubmed.ncbi.nlm.nih.gov/23480975/ -> DOI not found
+https://doi.org/10.1097/MRR.0000000000000333
+https://doi.org/10.2340/16501977-2183
+https://doi.org/10.1177/02692155211072189
+https://doi.org/10.1097/MRR.0000000000000518
+https://doi.org/10.1097/MRR.0000000000000363
+https://doi.org/10.1016/j.jns.2015.04.033
+https://doi.org/10.3233/NRE-161391
+https://doi.org/10.1016/j.jstrokecerebrovasdis.2016.03.030
+https://doi.org/10.1177/0269215513478228
+https://doi.org/10.1177/1545968311419301
+https://doi.org/10.1177/1545968319829453
+https://doi.org/10.1179/1074935714Z.0000000025
+https://doi.org/10.3109/02699052.2013.860472
+https://doi.org/10.1177/1545968311408917
+https://doi.org/10.1186/s12883-025-04213-5
+https://pubmed.ncbi.nlm.nih.gov/24704938/ -> DOI not found
+https://doi.org/10.1177/1545968312465896
+https://doi.org/10.1016/j.rehab.2020.11.001
+https://doi.org/10.1080/00207454.2022.2095272
+https://doi.org/10.3109/00207454.2015.1115993
+https://doi.org/10.1016/j.medengphy.2016.07.010
+https://doi.org/10.23736/S1973-9087.16.04297-0
+https://doi.org/10.1016/j.jstrokecerebrovasdis.2019.104454
+https://doi.org/10.1016/j.jstrokecerebrovasdis.2019.06.030
+https://pubmed.ncbi.nlm.nih.gov/24708038/ -> DOI not found
+https://doi.org/10.1177/0269215512441476
+https://doi.org/10.1177/1545968311408916
+https://doi.org/10.1186/s13063-017-2377-6
+https://doi.org/10.2522/ptj.20090349
+https://doi.org/10.1177/1545968313484808
+https://doi.org/10.2174/15672026113109990005
+https://doi.org/10.2340/16501977-2256
+https://doi.org/10.1177/0269215517720486
+https://doi.org/10.1016/j.apmr.2014.04.008
+https://doi.org/10.3233/RNN-201055
+https://pubmed.ncbi.nlm.nih.gov/33311046/ -> DOI not found
+https://doi.org/10.1080/00222895.2024.2439505
+https://doi.org/10.1161/STROKEAHA.111.638148
+https://doi.org/10.1097/PHM.0000000000002674
