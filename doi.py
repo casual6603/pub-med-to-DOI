@@ -16,10 +16,10 @@ def extract_doi(url: str) -> str | None:
     meta = soup.find("meta", attrs={"name": "citation_doi"})
     if isinstance(meta, Tag) and meta.get("content"):
         return meta["content"]
-        print("baboon")
+        print("baboon")#tester to ensure functionality visually
     for a in soup.find_all("a", href=True):
         href = a["href"]
-        print(f"monkey {a}")
+        print(f"monkey {a}") #visualizer to ensure its working
         if "doi.org/" in href:
             return href.split("doi.org/")[-1]
     return None
@@ -28,11 +28,8 @@ def extract_doi(url: str) -> str | None:
 def main():
     with open(INPUT_FILE, "r") as infile:
         urls = [line.strip() for line in infile if line.strip()]
-    i = 0
     with open(OUTPUT_FILE, "w") as outfile:
         for url in urls:
-            print(i)
-            i += 1
             doi = extract_doi(url)
             if doi:
                 outfile.write(f"https://doi.org/{doi}\n")
