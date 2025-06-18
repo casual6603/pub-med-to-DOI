@@ -1,3 +1,19 @@
-Working build as tested uses python 3.11.9 running in a venv with bs4 and requests. I can imagine it will work without a venv and possibly on a newer version of python. 
+This script extracts DOIs (Digital Object Identifiers) from a list of PubMed article URLs and writes them to an output file.
 
-Requires BS4 and Requests python libraries. 
+## Features
+
+- Accepts a list of URLs from `input.txt`
+- Extracts DOI from:
+  - `<meta name="citation_doi" content="...">` tag, if present
+  - Any `<a>` tag containing a `doi.org/` link
+- Outputs clickable DOI links in `https://doi.org/...` format
+- Logs unfound DOIs clearly
+
+## Requirements
+
+- Python 3.10+
+- `requests` and `beautifulsoup4` libraries
+
+Install dependencies (if needed):
+```bash
+pip install requests beautifulsoup4
